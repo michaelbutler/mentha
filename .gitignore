@@ -1,0 +1,5 @@
+credentials.ini
+.idea/
+MenthaProj/secrets.py
+*.cki
+__pycache__/
